@@ -1,0 +1,1 @@
+shared/pos_08.txt r

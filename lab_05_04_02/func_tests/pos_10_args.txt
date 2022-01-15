@@ -1,0 +1,1 @@
+fb shared/pos_10_in.bin n

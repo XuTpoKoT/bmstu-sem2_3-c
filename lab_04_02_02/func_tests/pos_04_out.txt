@@ -1,0 +1,7 @@
+Result: 
+cat no
+dog no
+lion no
+tiger no
+eagle no
+owl no

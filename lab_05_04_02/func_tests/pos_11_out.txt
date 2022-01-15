@@ -1,0 +1,8 @@
+book
+mama
+200
+13
+took
+papa
+50
+15

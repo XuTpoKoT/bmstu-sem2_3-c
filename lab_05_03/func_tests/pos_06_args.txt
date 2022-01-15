@@ -1,0 +1,1 @@
+s shared/pos_06_in.bin

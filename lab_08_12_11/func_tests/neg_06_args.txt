@@ -1,0 +1,1 @@
+m shared/neg_06_in.txt shared/neg_06_in2.txt shared/out.txt 

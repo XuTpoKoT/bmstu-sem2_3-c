@@ -1,0 +1,12 @@
+wood
+mama
+200
+12
+iron
+papa
+500
+8
+book
+mama
+800
+13

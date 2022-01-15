@@ -1,0 +1,16 @@
+iron
+papa
+70
+8
+book
+mama
+60
+13
+wood
+mama
+60
+12
+took
+papa
+43
+15

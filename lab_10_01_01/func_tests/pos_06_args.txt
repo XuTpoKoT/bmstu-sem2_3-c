@@ -1,0 +1,1 @@
+shared/pos_06.txt s

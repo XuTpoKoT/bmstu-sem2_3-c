@@ -1,0 +1,1 @@
+Input length of array: Input elements: Count of unic elements = 2

@@ -1,0 +1,2 @@
+book,newspaper.newspaper:table?
+spoon,book:newspaper;table,fork

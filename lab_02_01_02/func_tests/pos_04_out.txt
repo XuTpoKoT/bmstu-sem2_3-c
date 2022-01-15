@@ -1,0 +1,1 @@
+Input length of array: Input elements: Average of negative elements = -3.500000

@@ -1,0 +1,4 @@
+f - 1.119770
+s - 1.119473
+Absolute mistake - 0.000296
+Comparetive mistake - 0.000265

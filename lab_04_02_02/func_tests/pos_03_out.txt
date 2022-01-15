@@ -1,0 +1,4 @@
+Result: 
+book yes
+newspaper yes
+table yes

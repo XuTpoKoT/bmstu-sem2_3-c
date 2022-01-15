@@ -1,0 +1,8 @@
+wood
+mama
+200
+12
+iron
+papa
+500
+8

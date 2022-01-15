@@ -1,0 +1,1 @@
+a shared/pos_02_in.txt shared/pos_02_in2.txt shared/out.txt 

@@ -1,0 +1,1 @@
+m dima.txt shared/neg_02_in2.txt shared/out.txt 

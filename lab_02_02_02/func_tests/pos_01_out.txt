@@ -1,0 +1,2 @@
+Input length of array: Input elements: New array: 
+892348 

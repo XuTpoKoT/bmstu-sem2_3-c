@@ -1,0 +1,6 @@
+Result: 
+root no
+sportsman yes
+football no
+volleyball yes
+ball no

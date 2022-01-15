@@ -1,0 +1,1 @@
+sb shared/pos_06_in.bin shared/pos_06_out.bin
